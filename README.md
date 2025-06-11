@@ -9,17 +9,17 @@ Simular um sistema de gerenciamento inteligente de energia usando Arduino, com c
 - LCD 16x2 com I2C
 - Protoboard e jumpers
 ## ⚙️ Funcionamento
-- Potenciômetro simula o nível da bateria
-- LEDs acendem de acordo com o nível:
- - Baixo: nenhum LED
- - Médio: apenas LED primário
- - Alto: ambos os LEDs
-- LCD mostra o nível em tempo real
+- O potenciômetro simula o nível de carga da bateria.
+- Os LEDs acendem de acordo com esse nível:
+ - 🔴 Abaixo de 500: nenhum LED ligado.
+ - 🟡 Entre 501 e 800: apenas LED primário ligado.
+ - 🟢 Acima de 800: ambos os LEDs ligados.
+- O display LCD exibe o valor do nível da bateria em tempo real.
 ## 🔗 Links Importantes
 - 💡 [Simulação no Wokwi](https://wokwi.com/projects/433395785548565505)
 - 📄 [Relatório Técnico (PDF)](./Relatorio_SPRINT2.pdf)
-- 📹 [Vídeo no YouTube](COLE_AQUI_O_LINK)
+- 📹 [Vídeo no YouTube](COLE_AQUI_O_LINK_DO_VIDEO)
 ## 📁 Código
-Veja o arquivo `codigo.ino` neste repositório.
+O código principal do projeto está no arquivo [`codigo.ino`](./codigo.ino) presente neste repositório.
 ---
 *Projeto da SPRINT 2 – Curso Técnico Integrado*
