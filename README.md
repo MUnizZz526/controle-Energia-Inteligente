@@ -18,7 +18,7 @@ Simular um sistema de gerenciamento inteligente de energia usando Arduino, com c
 ## 🔗 Links Importantes
 - 💡 [Simulação no Wokwi](https://wokwi.com/projects/433395785548565505)
 - 📄 [Relatório Técnico (PDF)](./Relatorio_SPRINT2.pdf)
-- 📹 [Vídeo no YouTube](COLE_AQUI_O_LINK_DO_VIDEO)
+- 📹 [Vídeo no YouTube](https://www.youtube.com/watch?v=QxXpvk3aInQ)
 ## 📁 Código
 O código principal do projeto está no arquivo [`codigo.ino`](./codigo.ino) presente neste repositório.
 ---
